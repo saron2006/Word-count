@@ -1,4 +1,4 @@
-![image](https://github.com/saron2006/Word-count/assets/138849343/afb19d41-f7f5-4874-8bab-bc75f1629e1a)# Word-count
+# Word-count
 ## AIM:
 To write a python program for getting the word count from a text.
 ## EQUIPEMENT'S REQUIRED: 
@@ -53,6 +53,7 @@ with open(fname,'r') as fp:
 
 ### OUTPUT:
 ![image](https://github.com/saron2006/Word-count/assets/138849343/afe8cdbc-5a38-466a-b662-fcffe69b6485)
+![image](https://github.com/saron2006/Word-count/assets/138849343/961465ab-0fd2-4acc-b205-16d479821009)
 
 
 
